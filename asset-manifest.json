@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/horridharry/salfordcc/static/css/main.92bcc505.chunk.css",
-    "main.js": "/horridharry/salfordcc/static/js/main.404c3ce8.chunk.js",
-    "main.js.map": "/horridharry/salfordcc/static/js/main.404c3ce8.chunk.js.map",
+    "main.js": "/horridharry/salfordcc/static/js/main.402f275b.chunk.js",
+    "main.js.map": "/horridharry/salfordcc/static/js/main.402f275b.chunk.js.map",
     "runtime-main.js": "/horridharry/salfordcc/static/js/runtime-main.19fed907.js",
     "runtime-main.js.map": "/horridharry/salfordcc/static/js/runtime-main.19fed907.js.map",
     "static/js/2.870d2d85.chunk.js": "/horridharry/salfordcc/static/js/2.870d2d85.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.19fed907.js",
     "static/js/2.870d2d85.chunk.js",
     "static/css/main.92bcc505.chunk.css",
-    "static/js/main.404c3ce8.chunk.js"
+    "static/js/main.402f275b.chunk.js"
   ]
 }
