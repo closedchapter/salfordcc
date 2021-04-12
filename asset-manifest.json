@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/horridharry/salfordcc/static/css/main.92bcc505.chunk.css",
-    "main.js": "/horridharry/salfordcc/static/js/main.402f275b.chunk.js",
-    "main.js.map": "/horridharry/salfordcc/static/js/main.402f275b.chunk.js.map",
-    "runtime-main.js": "/horridharry/salfordcc/static/js/runtime-main.19fed907.js",
-    "runtime-main.js.map": "/horridharry/salfordcc/static/js/runtime-main.19fed907.js.map",
-    "static/js/2.870d2d85.chunk.js": "/horridharry/salfordcc/static/js/2.870d2d85.chunk.js",
-    "static/js/2.870d2d85.chunk.js.map": "/horridharry/salfordcc/static/js/2.870d2d85.chunk.js.map",
-    "static/js/3.76234372.chunk.js": "/horridharry/salfordcc/static/js/3.76234372.chunk.js",
-    "static/js/3.76234372.chunk.js.map": "/horridharry/salfordcc/static/js/3.76234372.chunk.js.map",
-    "index.html": "/horridharry/salfordcc/index.html",
-    "static/css/main.92bcc505.chunk.css.map": "/horridharry/salfordcc/static/css/main.92bcc505.chunk.css.map",
-    "static/js/2.870d2d85.chunk.js.LICENSE.txt": "/horridharry/salfordcc/static/js/2.870d2d85.chunk.js.LICENSE.txt",
-    "static/media/psf.png": "/horridharry/salfordcc/static/media/psf.06ce442d.png",
-    "static/media/scc.png": "/horridharry/salfordcc/static/media/scc.a8bea09e.png"
+    "main.css": "/salfordcc/static/css/main.92bcc505.chunk.css",
+    "main.js": "/salfordcc/static/js/main.34a7a2ee.chunk.js",
+    "main.js.map": "/salfordcc/static/js/main.34a7a2ee.chunk.js.map",
+    "runtime-main.js": "/salfordcc/static/js/runtime-main.4c80179b.js",
+    "runtime-main.js.map": "/salfordcc/static/js/runtime-main.4c80179b.js.map",
+    "static/js/2.870d2d85.chunk.js": "/salfordcc/static/js/2.870d2d85.chunk.js",
+    "static/js/2.870d2d85.chunk.js.map": "/salfordcc/static/js/2.870d2d85.chunk.js.map",
+    "static/js/3.76234372.chunk.js": "/salfordcc/static/js/3.76234372.chunk.js",
+    "static/js/3.76234372.chunk.js.map": "/salfordcc/static/js/3.76234372.chunk.js.map",
+    "index.html": "/salfordcc/index.html",
+    "static/css/main.92bcc505.chunk.css.map": "/salfordcc/static/css/main.92bcc505.chunk.css.map",
+    "static/js/2.870d2d85.chunk.js.LICENSE.txt": "/salfordcc/static/js/2.870d2d85.chunk.js.LICENSE.txt",
+    "static/media/psf.png": "/salfordcc/static/media/psf.06ce442d.png",
+    "static/media/scc.png": "/salfordcc/static/media/scc.a8bea09e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.19fed907.js",
+    "static/js/runtime-main.4c80179b.js",
     "static/js/2.870d2d85.chunk.js",
     "static/css/main.92bcc505.chunk.css",
-    "static/js/main.402f275b.chunk.js"
+    "static/js/main.34a7a2ee.chunk.js"
   ]
 }
