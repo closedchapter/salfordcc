@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/salfordcc/static/css/main.37db3edc.chunk.css",
-    "main.js": "/salfordcc/static/js/main.faffcf04.chunk.js",
-    "main.js.map": "/salfordcc/static/js/main.faffcf04.chunk.js.map",
-    "runtime-main.js": "/salfordcc/static/js/runtime-main.6ecf585f.js",
-    "runtime-main.js.map": "/salfordcc/static/js/runtime-main.6ecf585f.js.map",
-    "static/js/2.6f9c86b8.chunk.js": "/salfordcc/static/js/2.6f9c86b8.chunk.js",
-    "static/js/2.6f9c86b8.chunk.js.map": "/salfordcc/static/js/2.6f9c86b8.chunk.js.map",
-    "static/js/3.8228ef8e.chunk.js": "/salfordcc/static/js/3.8228ef8e.chunk.js",
-    "static/js/3.8228ef8e.chunk.js.map": "/salfordcc/static/js/3.8228ef8e.chunk.js.map",
+    "main.css": "/salfordcc/static/css/main.f75fe741.chunk.css",
+    "main.js": "/salfordcc/static/js/main.57ab2351.chunk.js",
+    "main.js.map": "/salfordcc/static/js/main.57ab2351.chunk.js.map",
+    "runtime-main.js": "/salfordcc/static/js/runtime-main.91808357.js",
+    "runtime-main.js.map": "/salfordcc/static/js/runtime-main.91808357.js.map",
+    "static/js/2.e77a214c.chunk.js": "/salfordcc/static/js/2.e77a214c.chunk.js",
+    "static/js/2.e77a214c.chunk.js.map": "/salfordcc/static/js/2.e77a214c.chunk.js.map",
+    "static/js/3.50881f22.chunk.js": "/salfordcc/static/js/3.50881f22.chunk.js",
+    "static/js/3.50881f22.chunk.js.map": "/salfordcc/static/js/3.50881f22.chunk.js.map",
     "index.html": "/salfordcc/index.html",
-    "static/css/main.37db3edc.chunk.css.map": "/salfordcc/static/css/main.37db3edc.chunk.css.map",
-    "static/js/2.6f9c86b8.chunk.js.LICENSE.txt": "/salfordcc/static/js/2.6f9c86b8.chunk.js.LICENSE.txt",
+    "static/css/main.f75fe741.chunk.css.map": "/salfordcc/static/css/main.f75fe741.chunk.css.map",
+    "static/js/2.e77a214c.chunk.js.LICENSE.txt": "/salfordcc/static/js/2.e77a214c.chunk.js.LICENSE.txt",
+    "static/media/bgstudents.jpg": "/salfordcc/static/media/bgstudents.cea7b366.jpg",
+    "static/media/office365.jpg": "/salfordcc/static/media/office365.1c532299.jpg",
     "static/media/sccbg.png": "/salfordcc/static/media/sccbg.775a411b.png",
     "static/media/scclogo.png": "/salfordcc/static/media/scclogo.061f9b10.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ecf585f.js",
-    "static/js/2.6f9c86b8.chunk.js",
-    "static/css/main.37db3edc.chunk.css",
-    "static/js/main.faffcf04.chunk.js"
+    "static/js/runtime-main.91808357.js",
+    "static/js/2.e77a214c.chunk.js",
+    "static/css/main.f75fe741.chunk.css",
+    "static/js/main.57ab2351.chunk.js"
   ]
 }
