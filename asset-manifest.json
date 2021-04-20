@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salfordcc/static/css/main.f70583fd.chunk.css",
-    "main.js": "/salfordcc/static/js/main.051ab135.chunk.js",
-    "main.js.map": "/salfordcc/static/js/main.051ab135.chunk.js.map",
+    "main.js": "/salfordcc/static/js/main.302dea75.chunk.js",
+    "main.js.map": "/salfordcc/static/js/main.302dea75.chunk.js.map",
     "runtime-main.js": "/salfordcc/static/js/runtime-main.4e4e6b25.js",
     "runtime-main.js.map": "/salfordcc/static/js/runtime-main.4e4e6b25.js.map",
     "static/js/2.8ba0521a.chunk.js": "/salfordcc/static/js/2.8ba0521a.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.4e4e6b25.js",
     "static/js/2.8ba0521a.chunk.js",
     "static/css/main.f70583fd.chunk.css",
-    "static/js/main.051ab135.chunk.js"
+    "static/js/main.302dea75.chunk.js"
   ]
 }
