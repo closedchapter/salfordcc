@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/salfordcc/static/css/main.f70583fd.chunk.css",
-    "main.js": "/salfordcc/static/js/main.302dea75.chunk.js",
-    "main.js.map": "/salfordcc/static/js/main.302dea75.chunk.js.map",
+    "main.css": "/salfordcc/static/css/main.a0d99ab4.chunk.css",
+    "main.js": "/salfordcc/static/js/main.e565ba9b.chunk.js",
+    "main.js.map": "/salfordcc/static/js/main.e565ba9b.chunk.js.map",
     "runtime-main.js": "/salfordcc/static/js/runtime-main.4e4e6b25.js",
     "runtime-main.js.map": "/salfordcc/static/js/runtime-main.4e4e6b25.js.map",
     "static/js/2.8ba0521a.chunk.js": "/salfordcc/static/js/2.8ba0521a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0bb9b7bf.chunk.js": "/salfordcc/static/js/3.0bb9b7bf.chunk.js",
     "static/js/3.0bb9b7bf.chunk.js.map": "/salfordcc/static/js/3.0bb9b7bf.chunk.js.map",
     "index.html": "/salfordcc/index.html",
-    "static/css/main.f70583fd.chunk.css.map": "/salfordcc/static/css/main.f70583fd.chunk.css.map",
+    "static/css/main.a0d99ab4.chunk.css.map": "/salfordcc/static/css/main.a0d99ab4.chunk.css.map",
     "static/js/2.8ba0521a.chunk.js.LICENSE.txt": "/salfordcc/static/js/2.8ba0521a.chunk.js.LICENSE.txt",
     "static/media/bghome.png": "/salfordcc/static/media/bghome.775a411b.png",
     "static/media/bgstaff.jpeg": "/salfordcc/static/media/bgstaff.8b2cbf8f.jpeg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e4e6b25.js",
     "static/js/2.8ba0521a.chunk.js",
-    "static/css/main.f70583fd.chunk.css",
-    "static/js/main.302dea75.chunk.js"
+    "static/css/main.a0d99ab4.chunk.css",
+    "static/js/main.e565ba9b.chunk.js"
   ]
 }
